@@ -1,86 +1,84 @@
-<h1 align="center">👋 Hi, I'm Arsalan Umer</h1>
-<h3 align="center">💻 Full-Stack JavaScript Developer | React & Node.js Enthusiast | UI/UX Innovator</h3>
+<!-- 🌟 Animated Professional GitHub Profile - By Arsalan Umer -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Arsalan+Umer!;Full+Stack+Developer+%F0%9F%92%BB;Front+End+%26+Back+End+Enthusiast;Always+learning+something+new!+🚀" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arsalan55964&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-</p>
-
----
-
-### 🧩 About Me
-- 🚀 I’m a **Full-Stack JavaScript Developer** passionate about creating modern, responsive, and dynamic web apps.  
-- 💡 I specialize in **React, Tailwind CSS, Node.js, Express, and MongoDB**.  
-- 🏨 Built a **Hotel Reservation System backend** using Express + MongoDB.  
-- 🧾 Created a **Minimal MongoDB API backend** for CRUD and JWT authentication practice.  
-- 🎯 Goal: To become a developer who uses **AI and automation** to build smart, real-world solutions.  
-- ⚙️ Always learning better architecture, performance optimization, and clean code practices.
-
----
-
-### 🛠️ Tech Stack
-#### 💻 Frontend:
-React | Tailwind CSS | JavaScript (ES6+) | Framer Motion | HTML | CSS  
-#### 🧠 Backend:
-Node.js | Express | MongoDB | REST APIs | JWT Auth | Postman  
-#### 🧰 Tools:
-Git | GitHub | VS Code | Figma | Vercel | Render | Thunder Client
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,nodejs,express,mongodb,git,github,figma,vscode,postman" />
-</p>
-
----
-
-### ⚡ GitHub Stats
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arsalan55964&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arsalan55964&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan55964&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arsalan55964&theme=onedark&row=1&column=6" />
-</p>
-
----
-
-### 🌐 Connect With Me
-<p align="center">
+  <a href="https://github.com/Arsalan55964" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/arsalan-omar-0a7aaa323/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://arsalan-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 🧠 About Me  
+I'm **Arsalan Umer**, a creative **Full-Stack Web Developer** with a strong passion for building modern, elegant, and high-performing digital experiences.  
+I specialize in **React, Tailwind, Node.js, Express, and MongoDB**, blending front-end design with solid back-end logic.
+
+---
+
+### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsalan55964&theme=react-dark&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | Tech Stack | Link |
-|----------|--------------|------------|------|
-| 🏨 **Hotel Reservation System** | Complete backend for managing bookings, users & availability | Node.js, Express, MongoDB | *(private/local)* |
-| 🧾 **Minimal MongoDB Backend** | Lightweight CRUD API with JWT authentication | Express, MongoDB | *(private/local)* |
-| 🛍️ **E-Commerce Website** | Stylish React frontend with Tailwind + Framer Motion animations | React, Tailwind, Framer Motion | [Live Demo](https://arsalan-portfolio.vercel.app) |
+### 💼 Featured Front-End Projects  
+
+| Project | Description | Code |
+|----------|--------------|------|
+| 🏋️‍♂️ **Gym Management System** | React + Tailwind UI for gym memberships and workout plans. | [View Code](https://github.com/Code-Rivals/Gym-mangement) |
+| 🛍️ **E-Commerce Project** | Responsive online store with Framer Motion animations. | [View Code](https://github.com/Arsalan55964/e-commerce-project) |
+| 🧾 **Form Validation Project** | React form validation using custom hooks. | [View Code](https://github.com/Arsalan55964/FORM-VALIDATION-PROJECT) |
+| 🖼️ **Image Generator** | Search-based AI image generator using API integration. | [View Code](https://github.com/Arsalan55964/IMAGE-SEARCH-ENGINE) |
+| 🎧 **Music Player** | A beautiful and functional JavaScript music player. | [View Code](https://github.com/Arsalan55964/MUSIC-PLAYER) |
+| 💰 **Crypto Currency Website** | Dashboard-style crypto UI. | [View Code](https://github.com/Arsalan55964/CRYPTO-CURRENCY-WEBSIDE) |
+| 🌦️ **Weather App** | Real-time weather information using OpenWeather API. | [View Code](https://github.com/Arsalan55964/weather-app) |
+| 🧮 **Calculator** | A clean and interactive JS calculator. | [View Code](https://github.com/Arsalan55964/js-calculator) |
+| 📝 **To-Do List App** | Simple and elegant task organizer. | [View Code](https://github.com/Arsalan55964/TO-DO-LIST-APP) |
+| 🔐 **Random Password Generator** | Secure and dynamic password generator. | [View Code](https://github.com/Arsalan55964/RANDOM-PASSWORD) |
+| 🎫 **Quiz App** | JavaScript quiz app with scoring system. | [View Code](https://github.com/Arsalan55964/QUIZ-APP) |
+| 🎨 **Animated Navbar** | Responsive navbar animation demo. | [View Code](https://github.com/Arsalan55964/animated-nav-baar) |
 
 ---
 
-### 💬 Fun Quote
-> “Code isn’t just written — it’s crafted to solve problems beautifully.”
+### ⚙️ Back-End Projects  
+
+| Project | Description | Code |
+|----------|--------------|------|
+| 🏨 **Hotel Reservation System** | REST API using Express + MongoDB for hotel management. | [View Code](https://github.com/Arsalan55964) |
+| 🧩 **Minimal MongoDB Backend** | CRUD and Authentication APIs built with Node.js + Express. | [View Code](https://github.com/Arsalan55964) |
 
 ---
 
-⭐ **Check out my pinned repositories below for more cool work!**
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsalan55964&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsalan55964&theme=tokyonight" height="165" />
+</p>
+
+---
+
+### 👁️ Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arsalan55964&label=Profile+Views&color=5a5a5a&style=flat" alt="profile views" />
+</p>
+
+---
+
+### 💬 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/arsalan-omar-0a7aaa323/" target="_blank">💼 LinkedIn</a> • 
+  <a href="https://github.com/Arsalan55964" target="_blank">💻 GitHub</a>
+</p>
+
+---
+
+<h3 align="center">⭐ “Code. Create. Evolve.” ⭐</h3>
