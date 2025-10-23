@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Arsalan Umer</h1>
-<h3 align="center">💻 Passionate React Developer | Web Enthusiast | UI/UX Innovator</h3>
+<h3 align="center">💻 Full-Stack JavaScript Developer | React & Node.js Enthusiast | UI/UX Innovator</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arsalan55964&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
@@ -7,18 +7,26 @@
 
 ---
 
-### 🧠 About Me
-- 🚀 Frontend Developer focused on building modern, responsive, and animated web apps.  
-- 🌱 Currently mastering **React, Tailwind CSS, Framer Motion, and API integrations**.  
-- 💡 I love creating beautiful UI/UX with smooth interactions and real-world functionality.  
-- 🎯 Goal: To become an **AI-powered developer** who builds smart, problem-solving web apps.  
-- 🕶️ Always exploring new technologies to stay ahead in the development world.
+### 🧩 About Me
+- 🚀 I’m a **Full-Stack JavaScript Developer** passionate about creating modern, responsive, and dynamic web apps.  
+- 💡 I specialize in **React, Tailwind CSS, Node.js, Express, and MongoDB**.  
+- 🏨 Built a **Hotel Reservation System backend** using Express + MongoDB.  
+- 🧾 Created a **Minimal MongoDB API backend** for CRUD and JWT authentication practice.  
+- 🎯 Goal: To become a developer who uses **AI and automation** to build smart, real-world solutions.  
+- ⚙️ Always learning better architecture, performance optimization, and clean code practices.
 
 ---
 
 ### 🛠️ Tech Stack
+#### 💻 Frontend:
+React | Tailwind CSS | JavaScript (ES6+) | Framer Motion | HTML | CSS  
+#### 🧠 Backend:
+Node.js | Express | MongoDB | REST APIs | JWT Auth | Postman  
+#### 🧰 Tools:
+Git | GitHub | VS Code | Figma | Vercel | Render | Thunder Client
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,git,github,figma,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,nodejs,express,mongodb,git,github,figma,vscode,postman" />
 </p>
 
 ---
@@ -44,11 +52,8 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/coming-soon" target="_blank">
+  <a href="https://www.linkedin.com/in/arsalan-omar-0a7aaa323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/coming-soon" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://arsalan-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/>
@@ -64,10 +69,18 @@
 
 ---
 
-### 💬 Fun Fact
-> “Coding is not just about syntax — it’s about bringing ideas to life.”
+### 🚀 Featured Projects
+| Project | Description | Tech Stack | Link |
+|----------|--------------|------------|------|
+| 🏨 **Hotel Reservation System** | Complete backend for managing bookings, users & availability | Node.js, Express, MongoDB | *(private/local)* |
+| 🧾 **Minimal MongoDB Backend** | Lightweight CRUD API with JWT authentication | Express, MongoDB | *(private/local)* |
+| 🛍️ **E-Commerce Website** | Stylish React frontend with Tailwind + Framer Motion animations | React, Tailwind, Framer Motion | [Live Demo](https://arsalan-portfolio.vercel.app) |
 
 ---
 
-⭐ **Feel free to check out my pinned projects below!**  
-📬 Reach me anytime for collaboration or ideas!
+### 💬 Fun Quote
+> “Code isn’t just written — it’s crafted to solve problems beautifully.”
+
+---
+
+⭐ **Check out my pinned repositories below for more cool work!**
