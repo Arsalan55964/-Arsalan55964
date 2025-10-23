@@ -65,11 +65,7 @@ I specialize in **React, Tailwind, Node.js, Express, and MongoDB**, blending fro
 
 ---
 
-### 👁️ Profile Views  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arsalan55964&label=Profile+Views&color=5a5a5a&style=flat" alt="profile views" />
-</p>
 
 ---
 
